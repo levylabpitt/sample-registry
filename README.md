@@ -1,4 +1,4 @@
-# Instrument.[Rename] Package
+# Instrument.sample-registry Package
 
 ## Installation
 
@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Please contact [Name](Name@levylab.org)
+Please contact [Jeremy](jeremy.levy@levylab.org)
 
 ## License
 
